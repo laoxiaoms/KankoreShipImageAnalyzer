@@ -1,0 +1,2 @@
+C:\Users\VdieoRecordServer\Documents\Visual Studio 2015\Projects\KankoreShipImageAnalyzer\KankoreShipImageAnalyzer\bin\Debug\KankoreShipImageAnalyzer.exe
+C:\Users\VdieoRecordServer\Documents\Visual Studio 2015\Projects\KankoreShipImageAnalyzer\KankoreShipImageAnalyzer\bin\Debug\KankoreShipImageAnalyzer.exe.config
